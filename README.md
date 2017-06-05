@@ -1,7 +1,7 @@
-#LibreELEC-8.0 RPi2/3 addons
+LibreELEC-8.0 RPi2/3 addons
 
 Addons:
 
-rTorrent
-dtach
+rTorrent -
+dtach -
 php
